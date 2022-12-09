@@ -10,7 +10,7 @@
      srcset="https://github-readme-stats.vercel.app/api?username=gpaferrari&show_icons=true&theme=tokyonight"
       media="(prefers-color-scheme: dark)"
     />
-   <img align="right" src="https://github-readme-stats.vercel.app/api?username=gpaferrari&show_icons=true" />
+   <img src="https://github-readme-stats.vercel.app/api?username=gpaferrari&show_icons=true" />
   </picture>
   
   <picture>
