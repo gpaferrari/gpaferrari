@@ -29,10 +29,10 @@
 
 #### ☁️ Cloud & Serverless
 <p>
-  <img alt="AWS" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
-  <img alt="DynamoDB" height="30" src="https://img.icons8.com/color/48/000000/amazon-dynamodb.png"/>
-  <img alt="S3" height="30" src="https://img.icons8.com/color/48/000000/amazon-s3.png"/>
-  <img alt="Lambda" height="30" src="https://img.icons8.com/color/48/000000/aws-lambda.png"/>
+<img alt="AWS" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
+<img alt="DynamoDB" height="30" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/aws-dynamodb.svg" />
+<img alt="Lambda" height="30" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/aws-lambda.svg" />
+<img alt="S3" height="30" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/aws-s3.svg" />
 </p>
 
 #### 📊 Data Science & Analytics
@@ -57,6 +57,6 @@
 
 ### 🐍 Contribuições
 <p align="center">
-  <img src="https://github.com/gpaferrari/gpaferrari/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="Snake animation light" />
-  <img src="https://github.com/gpaferrari/gpaferrari/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Snake animation dark" />
+  <img src="https://github.com/gpaferrari/gpaferrari/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="Snake animation light"/>
+  <img src="https://github.com/gpaferrari/gpaferrari/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Snake animation dark"/>
 </p>
