@@ -30,4 +30,6 @@
  
 </div>
 
-![Snake animation](https://github.com/gpaferrari/gpaferrari/blob/output/github-contribution-grid-snake.svg)
+![Snake animation - light](https://github.com/gpaferrari/gpaferrari/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![Snake animation - dark](https://github.com/gpaferrari/gpaferrari/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
