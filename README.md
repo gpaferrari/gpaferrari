@@ -29,7 +29,7 @@
 
 #### ☁️ Cloud & Serverless
 <p>
-<img alt="AWS" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
+<img alt="AWS" height="30" src="https://cdn.simpleicons.org/amazonaws/FF9900" />
 <img alt="DynamoDB" height="30" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/aws-dynamodb.svg" />
 <img alt="Lambda" height="30" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/aws-lambda.svg" />
 <img alt="S3" height="30" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/aws-s3.svg" />
